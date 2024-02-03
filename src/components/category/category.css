@@ -1,0 +1,21 @@
+.button{
+    width: 30%;
+    background-color: rgb(32, 177, 235);
+    color: aliceblue;
+    border-style: none;
+    height: 90%;
+}
+
+
+.form-category{
+    background-color: rgb(252, 252, 255);
+}
+.container-fluid-category{
+    background-color: rgb(219, 219, 226);
+    
+    height: 130vh;
+}
+.custom-category {
+    color: #ffffff;
+    background-color: #19867f;
+  }

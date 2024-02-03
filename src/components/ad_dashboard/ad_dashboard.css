@@ -1,0 +1,34 @@
+.dashbody{
+    background-color: #c3efec;
+    height: 100vh;
+    width: 100%;
+    margin: 0px;
+    overflow: hidden;
+    z-index: -10;
+}
+.timer_dash{
+    margin-top: 80px;
+    margin-left: 12px;
+}
+.dashnav{
+
+    position: fixed;
+    width: 100%;
+}
+.dashside{
+    margin-top: 80px;
+    margin-left: 15px;
+}
+.maincomp{
+    position: fixed;
+    margin-left: 100px;
+}
+.dashcontent{
+    overflow-y: scroll;
+    height: 100vh;
+    padding-bottom: 80px;
+    overflow-x: hidden;
+}
+.dashcontent::-webkit-scrollbar {
+    width: 60px;
+}

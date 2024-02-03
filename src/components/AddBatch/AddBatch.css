@@ -1,0 +1,51 @@
+.button{
+    width: 30%;
+    background-color: rgb(32, 177, 235);
+    color: aliceblue;
+    border-style: none;
+    height: 90%;
+}
+
+
+.form-batch{
+    background-color: rgb(252, 252, 255);
+}
+.container-fluid-batch{
+    background-color: #c3efec;
+    z-index: 10;
+ 
+    
+    height: 100vh;
+}
+.custom-batch {
+    color: #ffffff;
+    background-color: #19867f;
+  }
+
+ 
+@media (max-width: 767px) {
+    .col-lg-6 {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .col-lg-6:last-child {
+      text-align: center;
+    }
+  
+    .custom-button {
+      display: block;
+      margin: 0 auto;
+    }
+  
+    
+  }
+  .table-responsive{
+    margin: 1px;
+  }
+  .container{
+    overflow-x: hidden;
+  }
+ .botTable{
+    width: 80px;
+ }

@@ -1,0 +1,28 @@
+.button-mode{
+    width: 30%;
+    background-color: rgb(32, 177, 235);
+    color: aliceblue;
+    border-style: none;
+    height: 90%;
+}
+
+
+.form-mode{
+    background-color: rgb(252, 252, 255);
+    
+}
+.container-fluid-mode{
+    background-color: rgb(219, 219, 226);
+    
+    height: 100vh;
+}
+.custom-mode {
+    color: #ffffff;
+    background-color: #19867f;
+  }
+  .mode-card{
+    margin-left: 170px;
+  }
+  .table-responsive{
+    margin-left: 100px;
+  }
